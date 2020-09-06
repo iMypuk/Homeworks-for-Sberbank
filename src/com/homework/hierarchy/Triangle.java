@@ -1,6 +1,6 @@
 package com.homework.hierarchy;
 
-public class Triangle extends Figure{
+public class Triangle extends Figure {
     private final double a, b, c;
 
     public Triangle(double a, double b, double c) {
@@ -18,6 +18,6 @@ public class Triangle extends Figure{
 
     @Override
     double getPerimeter() {
-        return a+b+c;
+        return a + b + c;
     }
 }
