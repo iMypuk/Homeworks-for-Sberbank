@@ -1,4 +1,4 @@
-package com.homework.hierarchy;
+package com.homework.lesson1.hierarchy;
 
 public class Triangle extends Figure {
     private final double a, b, c;

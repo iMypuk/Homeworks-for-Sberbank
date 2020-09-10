@@ -1,4 +1,4 @@
-package com.homework;
+package com.homework.lesson1;
 
 //значения будут поступать по шкале Цельсия
 public class TemperatureConverter {
